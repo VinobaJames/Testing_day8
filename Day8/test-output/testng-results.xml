@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-06-05T04:48:27Z" name="Default suite" finished-at="2023-06-05T04:48:44Z" duration-ms="17187">
+    <groups>
+    </groups>
+    <test started-at="2023-06-05T04:48:27Z" name="Default test" finished-at="2023-06-05T04:48:44Z" duration-ms="17187">
+      <class name="selenium.Day8.Day8_3">
+        <test-method is-config="true" signature="beforeTest()[pri:0, instance:selenium.Day8.Day8_3@6d167f58]" started-at="2023-06-05T10:18:27Z" name="beforeTest" finished-at="2023-06-05T10:18:40Z" duration-ms="13567" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method signature="T01()[pri:1, instance:selenium.Day8.Day8_3@6d167f58]" started-at="2023-06-05T10:18:40Z" name="T01" finished-at="2023-06-05T10:18:41Z" duration-ms="606" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- T01 -->
+        <test-method is-config="true" signature="afterTest()[pri:0, instance:selenium.Day8.Day8_3@6d167f58]" started-at="2023-06-05T10:18:41Z" name="afterTest" finished-at="2023-06-05T10:18:44Z" duration-ms="3005" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- selenium.Day8.Day8_3 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
